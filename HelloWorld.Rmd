@@ -1,7 +1,0 @@
----
-title: "HelloWorld"
-author: "diakt"
-date: "1/29/2021"
-output: md_document
----
-## This is a markdown file that is not working
